@@ -1,2 +1,1 @@
-# Blogr--Website
- an awesome website
+# Blogr--Website : https://blogr-akro.netlify.app
